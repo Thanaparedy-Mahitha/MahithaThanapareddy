@@ -6,7 +6,6 @@
   <a href="https://www.linkedin.com/in/mahitha-thanapareddy">LinkedIn</a> •
   <a href="https://github.com/Thanaparedy-Mahitha">GitHub</a>
 </p>
----
 
 ## 🚀 About Me
 
@@ -16,7 +15,6 @@
 - 🧠 Exploring **Linux internals, kernel modules, tracing tools, and low-level debugging**
 - 🎯 Focused on growing in **Embedded Linux and firmware development**
 
----
 
 ## 🧰 Technical Skills
 
