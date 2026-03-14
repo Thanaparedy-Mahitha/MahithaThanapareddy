@@ -1,8 +1,11 @@
-<p align="center">
-  <a href="https://www.linkedin.com/in/mahitha-thanapareddy" target="_blank">LinkedIn</a> •
-  <a href="https://github.com/Thanaparedy-Mahitha" target="_blank">GitHub</a>
-</p>
+<h1 align="center">Hi 👋, I'm Mahitha Thanapareddy</h1>
+<h3 align="center">Embedded Software Engineer | Embedded Linux | C | Device Drivers | RTOS</h3>
+<h4 align="center">1+ Years of Experience in Embedded Software Development</h4>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahitha-thanapareddy">LinkedIn</a> •
+  <a href="https://github.com/Thanaparedy-Mahitha">GitHub</a>
+</p>
 ---
 
 ## 🚀 About Me
@@ -32,13 +35,6 @@
 - Platform Driver and Device Binding
 - RTOS
 
-### Protocols
-- UART
-- SPI
-- I2C
-- CAN
-- TCP/IP
-
 ### Tools
 - GDB
 - ftrace
@@ -48,10 +44,8 @@
 - Yocto
 - CMake
 - Google Test
-- Google Mock
 
 ---
-
 
 ## 📫 Connect With Me
 
