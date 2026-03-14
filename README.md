@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mahitha Thanapareddy</h1>
-<h3 align="center">Embedded Software Engineer | Embedded Linux | C | Device Drivers | RTOS</h3>
-
 <p align="center">
-  Passionate about low-level system programming, Linux kernel debugging, and embedded firmware development.
+  <a href="https://www.linkedin.com/in/mahitha-thanapareddy" target="_blank">LinkedIn</a> •
+  <a href="https://github.com/Thanaparedy-Mahitha" target="_blank">GitHub</a>
 </p>
 
 ---
@@ -11,7 +9,7 @@
 
 - 💻 Embedded Software Engineer with experience in **Embedded C, Embedded Linux, and RTOS-based systems**
 - 🔧 Interested in **Linux kernel debugging, device driver development, and hardware interfacing**
-- ⚙️ Worked with protocols like **UART, SPI, I2C, CAN, and TCP/IP**
+- ⚙️ Worked with **UART, SPI, I2C, CAN, and TCP/IP**
 - 🧠 Exploring **Linux internals, kernel modules, tracing tools, and low-level debugging**
 - 🎯 Focused on growing in **Embedded Linux and firmware development**
 
@@ -34,17 +32,28 @@
 - Platform Driver and Device Binding
 - RTOS
 
+### Protocols
+- UART
+- SPI
+- I2C
+- CAN
+- TCP/IP
+
 ### Tools
 - GDB
 - ftrace
 - dmesg
 - Git
+- GitHub
 - Yocto
 - CMake
 - Google Test
 - Google Mock
 
+---
+
 
 ## 📫 Connect With Me
-- LinkedIn: Mahitha Thanapareddy
-- GitHub: Thanaparedy-Mahitha
+
+- LinkedIn: [www.linkedin.com/in/mahitha-thanapareddy](https://www.linkedin.com/in/mahitha-thanapareddy)
+- GitHub: [github.com/Thanaparedy-Mahitha](https://github.com/Thanaparedy-Mahitha)
