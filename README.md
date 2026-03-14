@@ -9,11 +9,11 @@
 
 ## 🚀 About Me
 
-- 💻 Embedded Software Engineer with experience in **Embedded C, Embedded Linux, and RTOS-based systems**
-- 🔧 Interested in **Linux kernel debugging, device driver development, and hardware interfacing**
-- ⚙️ Worked with **UART, SPI, I2C, CAN, and TCP/IP**
-- 🧠 Exploring **Linux internals, kernel modules, tracing tools, and low-level debugging**
-- 🎯 Focused on growing in **Embedded Linux and firmware development**
+- Embedded Software Engineer with experience in **Embedded C, Embedded Linux, and RTOS-based systems**
+- Interested in **Linux kernel debugging, device driver development, and hardware interfacing**
+- Worked with **UART, SPI, I2C, CAN, and TCP/IP**
+- Exploring **Linux internals, kernel modules, tracing tools, and low-level debugging**
+- Focused on growing in **Embedded Linux and firmware development**
 
 
 ## 🧰 Technical Skills
